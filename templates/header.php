@@ -42,3 +42,5 @@ p {
     </div>
 </nav>
 <main class="container">
+
+<!-- Faltan Agregar algunas cosas como Carta no esta funcionando en el modulo alumnos y no se a terminado cerrar.php ademas que hay unos errores que corregir-->
